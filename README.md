@@ -497,7 +497,7 @@ kubectl describe pod POD_NAME
 ---
 
 ## 👨‍💻 Author
-Your Name  
+Abhishek Singh  
 DevOps Engineer
 
 ---
